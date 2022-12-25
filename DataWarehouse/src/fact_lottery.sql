@@ -1,0 +1,1 @@
+SELECT * FROM `xoso`.`fact_lottery` LIMIT 1000;
